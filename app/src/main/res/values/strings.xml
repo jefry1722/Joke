@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Joke</string>
+    <string name="pregunta">¿Cuál es el secreto?</string>
+    <string name="respuesta">timing!</string>
+</resources>
